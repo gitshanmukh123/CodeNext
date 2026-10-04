@@ -9,7 +9,7 @@ interface StoredProfile {
   lastAnalyzed: string;
 }
 
-const STORAGE_KEY = "algograph-profile";
+const STORAGE_KEY = "codenext-profile";
 
 let cache: { raw: string | null; parsed: StoredProfile | null } = {
   raw: null,

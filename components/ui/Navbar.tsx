@@ -37,7 +37,7 @@ export function Navbar() {
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
             <Network size={18} />
           </div>
-          <span className="text-lg font-bold tracking-tight">AlgoGraph</span>
+          <span className="text-lg font-bold tracking-tight">CodeNext</span>
         </Link>
 
         <nav className="ml-8 hidden items-center gap-1 overflow-x-auto md:flex">

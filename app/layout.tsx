@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "AlgoGraph — DSA Profile Analyzer",
+  title: "CodeNext — DSA Profile Analyzer",
   description:
     "Analyze your Codeforces and LeetCode journey, discover your blind spots, and get a personalized problem roadmap.",
 };

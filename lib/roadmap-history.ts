@@ -27,7 +27,7 @@ interface RoadmapHistory {
   sessions: RoadmapSession[];
 }
 
-const STORAGE_KEY = "algograph-roadmap-history";
+const STORAGE_KEY = "codenext-roadmap-history";
 const WINDOW_DAYS = 7;
 const DAY_MS = 24 * 60 * 60 * 1000;
 

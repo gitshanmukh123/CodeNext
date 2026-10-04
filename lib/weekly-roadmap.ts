@@ -41,7 +41,7 @@ interface WeeklyRoadmapStore {
   entries: Record<string, WeeklyRoadmapEntry>;
 }
 
-const STORAGE_KEY = "algograph-weekly-roadmap";
+const STORAGE_KEY = "codenext-weekly-roadmap";
 
 export function getWeekStart(now = new Date()): string {
   const d = new Date(now);
